@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: ef4e81a9b77b58a43a047272dd1d4e1c, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: 7281e50f284d9904788375c750c2726c, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: a60ab12610d091d40a79377cd32d2dfa, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1543676332155447511, guid: ee00005ff5b743547b8e78c541aff99e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.04
+      value: 0.33
       objectReference: {fileID: 0}
     - target: {fileID: 1543676332155447511, guid: ee00005ff5b743547b8e78c541aff99e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1543676332155447511, guid: ee00005ff5b743547b8e78c541aff99e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -9.67
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 1543676332155447511, guid: ee00005ff5b743547b8e78c541aff99e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -198,7 +198,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 794805839220310726, guid: 84737f274553ff84bbde876bae91a358, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 38.27
       objectReference: {fileID: 0}
     - target: {fileID: 794805839220310726, guid: 84737f274553ff84bbde876bae91a358, type: 3}
       propertyPath: m_LocalRotation.w
@@ -231,7 +231,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7494838328239384770, guid: 84737f274553ff84bbde876bae91a358, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 84737f274553ff84bbde876bae91a358, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
