@@ -1152,11 +1152,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[2].time
-      value: 1.01
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[3].time
-      value: 50
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _rotationStrength.m_Curve.Array.data[1].time
@@ -1168,11 +1168,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[2].value
-      value: 0.11
+      value: 360
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[3].value
-      value: 0.11
+      value: 360
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _rotationStrength.m_Curve.Array.data[1].value
@@ -1188,7 +1188,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[2].inSlope
-      value: -2430.5017
+      value: 640
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[3].inSlope
@@ -1208,7 +1208,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[1].outSlope
-      value: -3989.0037
+      value: 640
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[2].inWeight
@@ -1244,7 +1244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[2].tangentMode
-      value: 65
+      value: 69
       objectReference: {fileID: 0}
     - target: {fileID: 7245423369569572801, guid: 0a7d2469f24041c4284c66706f84c45e, type: 3}
       propertyPath: _movementStrength.m_Curve.Array.data[3].tangentMode
