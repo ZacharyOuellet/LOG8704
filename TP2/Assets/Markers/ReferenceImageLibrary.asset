@@ -27,3 +27,33 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: chicken
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5341452080942524590
+      m_GuidHigh: 7895052845380297639
+    m_SerializedTextureGuid:
+      m_GuidLow: 4624162600709923637
+      m_GuidHigh: 10837650598795482984
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: chicken2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4629845814095365493
+      m_GuidHigh: 2418959658539718064
+    m_SerializedTextureGuid:
+      m_GuidLow: 17282105334726836115
+      m_GuidHigh: 16186363904139766057
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: chicken1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5316617607429174182
+      m_GuidHigh: 12578753425801144715
+    m_SerializedTextureGuid:
+      m_GuidLow: 11075526758455920300
+      m_GuidHigh: 428736794811722872
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: CEG
+    m_Texture: {fileID: 0}
